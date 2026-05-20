@@ -255,6 +255,4 @@ This project helps identify suspicious emails automatically using Machine Learni
 # 👨‍💻 Author
 
 Developed by:
-Your Name
-
-Cybersecurity Internship Project
+Galizerugulla Thirumala Ramyashri
